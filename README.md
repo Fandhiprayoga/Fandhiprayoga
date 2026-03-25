@@ -79,8 +79,11 @@ const fandhi = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fandhiprayoga&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fandhiprayoga&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
+
+<!-- Jika trophy di atas tidak muncul, coba URL alternatif berikut: -->
+<!-- <img src="https://github-trophies.vercel.app/?username=fandhiprayoga&theme=tokyonight&no-frame=true&no-bg=true&column=7" /> -->
 
 ---
 
