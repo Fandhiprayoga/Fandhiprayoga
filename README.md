@@ -25,9 +25,41 @@ const fandhi = {
     role: "Fullstack Developer",
     currentlyLearning: ["Laravel", "CodeIgniter", "React Native"],
     askMeAbout: ["JavaScript", "PHP", "Web Development", "Mobile Apps"],
-    email: "fduga2@gmail.com"
+    email: "fduga2@gmail.com",
+    blog: "https://fandhiprayoga.github.io"
 };
 ```
+
+---
+
+### 🌐 My Blog
+
+<div align="center">
+  <a href="https://fandhiprayoga.github.io">
+    <img src="https://img.shields.io/badge/📖_Visit_My_Blog-fandhiprayoga.github.io-6C63FF?style=for-the-badge&logoColor=white" alt="Blog" />
+  </a>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/✍️-Articles-FF6B6B?style=flat-square" /><br/>
+        <sub>Tech articles & tutorials</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/💡-Projects-4ECDC4?style=flat-square" /><br/>
+        <sub>Project showcases</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/🚀-Journey-FFE66D?style=flat-square" /><br/>
+        <sub>My dev journey & insights</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+> **🔗 [fandhiprayoga.github.io](https://fandhiprayoga.github.io)** — Where I share my thoughts on web development, coding tips, and everything tech!
 
 ---
 
