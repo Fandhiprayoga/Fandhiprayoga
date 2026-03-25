@@ -111,33 +111,54 @@ const fandhi = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fandhiprayoga&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=fandhiprayoga&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=fandhiprayoga&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=fandhiprayoga&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </picture>
 </div>
-
-<!-- Jika trophy di atas tidak muncul, coba URL alternatif berikut: -->
-<!-- <img src="https://github-trophies.vercel.app/?username=fandhiprayoga&theme=tokyonight&no-frame=true&no-bg=true&column=7" /> -->
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fandhiprayoga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fandhiprayoga&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fandhiprayoga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=fandhiprayoga&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fandhiprayoga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fandhiprayoga&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=fandhiprayoga&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fandhiprayoga&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fandhiprayoga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=fandhiprayoga&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=fandhiprayoga&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fandhiprayoga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fandhiprayoga&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fandhiprayoga&theme=tokyo-night&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fandhiprayoga&theme=minimal&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fandhiprayoga&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  </picture>
 </div>
 
 <div align="center">
